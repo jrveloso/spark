@@ -1,24 +1,22 @@
-# README
+# Spark
+A simple CRUD app where users can login and keep track of their network in an easy-to-use, mobile-friendly application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-Things you may want to cover:
 
-* Ruby version
+## Create an account or use the demo account:
 
-* System dependencies
+Email: demo@demo.com
+Password: demodemo
 
-* Configuration
+**Tech used:** Ruby On Rails, Bootstrap
 
-* Database creation
+My focus was to create a simple CRUD app using Rails.
 
-* Database initialization
+## Optimizations
 
-* How to run the test suite
+My next steps for improving this project would be to improve the styling the application. I would also add Google Auth for users who prefer that way of authenticating
 
-* Services (job queues, cache servers, search engines, etc.)
+## Lessons Learned:
 
-* Deployment instructions
-
-* ...
+I learned how Rails can simplify the process of creating a full stack web application that does everything in CRUD and already provides an MVC structure to boot. 
